@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "server"
+		},
+		{
+			"path": "esp32_cam",
+			"name": "esp32_cam"
 		}
 	]
 }
